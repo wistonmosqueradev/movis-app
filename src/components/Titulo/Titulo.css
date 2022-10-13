@@ -1,0 +1,18 @@
+.titulo{
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+color: transparent ;
+-webkit-text-stroke: 1px rgb(255, 98, 0);
+
+
+
+
+
+}
+.contenedor-titulo{
+    background-color: rgb(20, 20, 20);
+    border-radius: 20px;
+
+}
